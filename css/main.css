@@ -406,7 +406,7 @@ main .logo_circle img{
 
 
 /* 모바일 반응형 */
-@media(max-width : 360px){ /* 모바일 사이즈 360px */
+@media(max-width : 575px){ /* 모바일 사이즈 360px */
     main .page:nth-child(1) .page_inner {
         background-image: url(../img/bg_02.jpg);
     }
